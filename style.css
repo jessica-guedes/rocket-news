@@ -15,18 +15,19 @@
 }
 
 body{
-  background: url(assets/read_news.jpg) no-repeat right top;
+  background: url(assets/read_news.jpg) no-repeat center top;
   background-size: cover;
   font-family: 'Spartan', sans-serif;
   height: 780px;
   display: grid;
-  grid-template-columns: 720px 1fr;
+  grid-template-columns: 720px 1f;
+  overflow-y: hidden; /*esconder barra de rolagem*/
 }
 
 main{
   background-color: var(--body-bg-color);
   width: 600px;
-  height: 780px;
+  height: 100%;
 }
 
 .content{
