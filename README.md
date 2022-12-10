@@ -15,15 +15,6 @@ Desafio da Rocketseat para desenvolver uma página web simples utilizando HTML e
 <br>
 
 
-  
-##  :rocket: Demonstração
-
-<br>
-
-
-
-<br>
-
 ## :computer: Tecnologias 
 
 - HTML e CSS
